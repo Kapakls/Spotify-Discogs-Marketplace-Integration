@@ -20,7 +20,7 @@ This Python script automates the process of finding potential matching listings 
 
 1. Configure the script with your Spotify API credentials (client ID, client secret, redirect URL) and desired file paths.
 2. Configure `python getdata.py`, `searchlistings.py` and `filter.py` with the necessary file paths (folder_path, subprocess_path, album data, user_path, listing data).
-3. Run `python getdata.py` to retrieve Spotify data, scrape listing data from Discogs and analyze listing data and identify potential matches.
+3. Run `python getdata.py` to retrieve Spotify data, scrape listing data from Discogs and analyze it to identify potential matches.
 
 **Additional Notes:**
 
